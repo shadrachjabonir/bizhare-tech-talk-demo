@@ -1,4 +1,6 @@
 # BTT Event BDD with Banking Scenario
+See Presentation here: https://www.slideshare.net/ShadrachJabonirShadr/volume-2-automate-your-testing-to-increase-reliability-and-quality
+
 See https://docs.katalon.com/katalon-studio/docs/bdd-samples.html.
 
 ## Companion products
