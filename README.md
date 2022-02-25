@@ -1,4 +1,4 @@
-# Calculator BDD Testing Samples
+# BTT Event BDD with Banking Scenario
 See https://docs.katalon.com/katalon-studio/docs/bdd-samples.html.
 
 ## Companion products
