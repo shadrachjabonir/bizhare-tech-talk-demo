@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify getAccountBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>682eb78e-f53e-4a93-9643-397557c25282</testCaseGuid>
+</TestCaseEntity>
